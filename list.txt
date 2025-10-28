@@ -2,3 +2,6 @@ aepfel
 birnen
 bier
 leberkassemmerl
+chips
+wurst 
+kaese
