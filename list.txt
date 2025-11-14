@@ -19,3 +19,4 @@ kartoffeln
 wein
 cashews
 marillen
+bratwuerstel
